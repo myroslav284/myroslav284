@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href='https://t.me/myroslav284'><img style='height: 50px' src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/telegram-icon.png'/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
